@@ -1,0 +1,12 @@
+G:\Visual Studio 2005\Projects\ChatService\ChatService\bin\Debug\ChatService.exe
+G:\Visual Studio 2005\Projects\ChatService\ChatService\bin\Debug\ChatService.pdb
+G:\Visual Studio 2005\Projects\ChatService\ChatService\obj\Debug\ResolveAssemblyReference.cache
+G:\Visual Studio 2005\Projects\ChatService\ChatService\obj\Debug\ChatService.ChatService.resources
+G:\Visual Studio 2005\Projects\ChatService\ChatService\obj\Debug\ChatService.csproj.GenerateResource.Cache
+G:\Visual Studio 2005\Projects\ChatService\ChatService\obj\Debug\ChatService.exe
+G:\Visual Studio 2005\Projects\ChatService\ChatService\obj\Debug\ChatService.pdb
+G:\Visual Studio 2005\Projects\ChatService\ChatService\obj\Debug\ChatService.ProjectInstaller.resources
+D:\My Documents\Visual Studio 2005\Projects\ChatService\ChatService\obj\Debug\ChatService.exe
+D:\My Documents\Visual Studio 2005\Projects\ChatService\ChatService\obj\Debug\ChatService.pdb
+C:\Documents and Settings\michael.huang\My Documents\Visual Studio 2005\Projects\ChatService\ChatService\obj\Debug\ChatService.exe
+C:\Documents and Settings\michael.huang\My Documents\Visual Studio 2005\Projects\ChatService\ChatService\obj\Debug\ChatService.pdb
